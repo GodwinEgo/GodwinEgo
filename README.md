@@ -1,24 +1,137 @@
-# 💫 About Me:
-🚀 Crafting Code and Creating Connections 🌌<br>🔥 Igniting Side Projects and Building My Journey 🛠️<br>👥 Open to Collaborate with Innovative Minds and Impactful Ventures 💡<br>🙌 Seeking Guidance from the Masters of Craftsmanship 🧠<br>🎯 Navigating the Realm of Full-Stack Development 🌐<br>❓ Curious Minds, Feel Free to Inquire 💭<br>🐞 Embracing Bugs as Challenges and Unleashing Fixes as Victories 🦠
+# Hi, I'm Godwin Ehile 👋
 
+**Full-Stack Software Engineer** building and shipping production web, mobile, and backend systems.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/1091495671493828679) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/https://www.facebook.com/godwin.ehile.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/ego_the_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://linkedin.com/in/godwinego) 
+I work primarily with **TypeScript, React, Next.js, React Native, Node.js, NestJS, GraphQL, PostgreSQL, and MongoDB**, taking products from interface implementation and API design through integrations, deployment, debugging, and production support.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GodwinEgo&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GodwinEgo&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GodwinEgo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Most of my recent work has been around **health technology, SaaS, AI-enabled products, mobile applications, platform engineering, and developer tooling**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GodwinEgo&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+I don't just build side projects. I actively work on production systems used by real teams and users.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GodwinEgo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🧩 Full-stack engineer working across **frontend, mobile, backend, APIs, and infrastructure**
+- 📱 Building production mobile applications with **React Native and Expo**
+- ⚙️ Building backend systems with **Node.js, NestJS, GraphQL, PostgreSQL, MongoDB, Prisma, and REST APIs**
+- 🌐 Building and maintaining modern web products with **React and Next.js**
+- 🏥 Founder of **InfectoSnap**, a health-tech company exploring smartphone-based technology for visible infection analysis
+- 🚀 Actively contributing to production products across multiple engineering teams and organizations
+- 🔧 Comfortable taking ownership of existing systems, debugging unfamiliar codebases, fixing production issues, and shipping features end-to-end
+- 🔐 Experienced with authentication, authorization, multi-tenant architecture, API integrations, and production workflows
+- ☁️ Working with cloud infrastructure and deployments, including **AWS, Vercel, CI/CD, databases, and production environments**
+- 🧠 Increasingly building with and around **AI systems, developer tools, automation, and intelligent workflows**
+- 🤝 Open to strong engineering teams, ambitious products, and technically interesting problems
+
+---
+
+## 💼 What I'm Working On
+
+My GitHub activity reflects active engineering work across multiple products and teams.
+
+Recent work includes:
+
+- building and maintaining large **React and Next.js applications**
+- shipping features across **React Native mobile applications**
+- working on **Node.js and NestJS backend services**
+- designing and integrating **GraphQL and REST APIs**
+- debugging and stabilizing production systems
+- implementing authentication and authorization flows
+- working with PostgreSQL and MongoDB-backed systems
+- handling cloud infrastructure and production deployments
+- integrating third-party services and external APIs
+- building AI-enabled products and internal developer tools
+- reviewing, fixing, and extending existing large codebases
+
+A large portion of my GitHub activity comes from production repositories, private repositories, and organization-owned codebases.
+
+---
+
+## 🧰 Core Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Tools & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Selected Work
+
+### InfectoSnap
+
+Founder and engineer at **InfectoSnap**, a health-tech venture exploring smartphone-based AI for visible infection analysis and healthcare workflows.
+
+### Production Engineering
+
+I regularly work on systems involving:
+
+- complex React and Next.js applications
+- React Native mobile apps
+- GraphQL and REST APIs
+- authentication and authorization
+- role-based access control
+- multi-tenant systems
+- PostgreSQL and MongoDB data layers
+- third-party API integrations
+- cloud deployment and infrastructure
+- production debugging and incident resolution
+- AI-enabled workflows
+- developer tooling and automation
+
+---
+
+## 📈 GitHub Activity
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GodwinEgo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    height="165"
+    alt="Godwin's GitHub stats"
+  />
+</p>
+
+> A significant amount of my recent engineering work happens in private and organization-owned repositories.
+
+---
+
+## 🌍 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Godwin_Ehile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwinego)
+[![Instagram](https://img.shields.io/badge/Instagram-ego__the__dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/godwin_egoo)
+[![Email](https://img.shields.io/badge/Email-godwinehile04%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:godwinehile04@gmail.com)
+
+---
+
+### I build software, ship it, break things occasionally, fix them, and keep moving.
